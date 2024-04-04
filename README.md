@@ -1,7 +1,7 @@
 ## AI Team 4 Project😎
 Team4. 이유빈, 김경모, 유상우, 이경일
 
-## Project: 점자변환기
+## Project: ?
 
 
 ## 개발기간📅
